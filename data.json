@@ -1,0 +1,27 @@
+[
+    {
+        "upc": "0716737819876",
+        "color": "003 MTTBLACK",
+        "size": "48-19-135",
+        "lens": "",
+        "lens material": "",
+        "availability": "high availability",
+        "available_date": "11\/16\/2023",
+        "best seller": false,
+        "frame type": "optical frames",
+        "gender": "unisex adult",
+        "can RX": false,
+        "front material": "STAINLESS STEEL",
+        "temple material": "metal",
+        "shape": "RECTANGULAR",
+        "hinge type": "other flex",
+        "rim type": "full rim",
+        "a": 48,
+        "b": 0,
+        "ed": 1,
+        "dbl": 19,
+        "base curve": "S6",
+        "frame material": "metal",
+        "styleName": "AD 106"
+    }
+]
